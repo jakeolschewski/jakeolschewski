@@ -40,5 +40,5 @@ TypeScript · Next.js · Node.js · Vercel · Stripe · Ollama · VS Code Extens
 ---
 
 <p align="center">
-  <strong>WEDGE Method LLC</strong> · Herriman, UT · <a href="https://thewedgemethodai.com">thewedgemethodai.com</a>
+  <strong>WEDGE Method LLC</strong> · West Jordan, UT · <a href="https://thewedgemethodai.com">thewedgemethodai.com</a>
 </p>
